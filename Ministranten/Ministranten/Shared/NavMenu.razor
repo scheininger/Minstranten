@@ -1,0 +1,25 @@
+﻿<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">Ministranten</a>
+        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</div>
+<img src="/minislogotrans.png" alt="Ministranten Logo" width="100%" class="sidebar">
+<MudPaper Width="250px" Elevation="0">
+    <MudNavMenu Rounded="true" Margin="Margin.Dense" Color="Color.Secondary" Class="pa-2">
+        <MudNavLink class="special_NavBar" Style="color: black; text-decoration:none; " Href="/MinistrantenPlanView" Icon="@Icons.Material.Filled.Album">Ministranten Plan</MudNavLink>
+        <MudNavLink Match="NavLinkMatch.Prefix" Style="color: black;" Href="UsersView" Icon="@Icons.Material.Filled.Storage">Users</MudNavLink>
+    </MudNavMenu>
+</MudPaper>
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

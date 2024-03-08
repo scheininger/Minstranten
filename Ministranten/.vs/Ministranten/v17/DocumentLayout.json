@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\scheiningers\\source\\repos\\Ministranten\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE13378-84EE-4179-AD1F-362C691F4784}|Ministranten\\Ministranten.csproj|c:\\users\\scheiningers\\source\\repos\\ministranten\\ministranten\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BE13378-84EE-4179-AD1F-362C691F4784}|Ministranten\\Ministranten.csproj|solutionrelative:ministranten\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE13378-84EE-4179-AD1F-362C691F4784}|Ministranten\\Ministranten.csproj|c:\\users\\scheiningers\\source\\repos\\ministranten\\ministranten\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BE13378-84EE-4179-AD1F-362C691F4784}|Ministranten\\Ministranten.csproj|solutionrelative:ministranten\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE13378-84EE-4179-AD1F-362C691F4784}|Ministranten\\Ministranten.csproj|c:\\users\\scheiningers\\source\\repos\\ministranten\\ministranten\\pages\\usersview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BE13378-84EE-4179-AD1F-362C691F4784}|Ministranten\\Ministranten.csproj|solutionrelative:ministranten\\pages\\usersview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE13378-84EE-4179-AD1F-362C691F4784}|Ministranten\\Ministranten.csproj|c:\\users\\scheiningers\\source\\repos\\ministranten\\ministranten\\pages\\ministrantenplanview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BE13378-84EE-4179-AD1F-362C691F4784}|Ministranten\\Ministranten.csproj|solutionrelative:ministranten\\pages\\ministrantenplanview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE13378-84EE-4179-AD1F-362C691F4784}|Ministranten\\Ministranten.csproj|c:\\users\\scheiningers\\source\\repos\\ministranten\\ministranten\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BE13378-84EE-4179-AD1F-362C691F4784}|Ministranten\\Ministranten.csproj|solutionrelative:ministranten\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE13378-84EE-4179-AD1F-362C691F4784}|Ministranten\\Ministranten.csproj|c:\\users\\scheiningers\\source\\repos\\ministranten\\ministranten\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6BE13378-84EE-4179-AD1F-362C691F4784}|Ministranten\\Ministranten.csproj|solutionrelative:ministranten\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE13378-84EE-4179-AD1F-362C691F4784}|Ministranten\\Ministranten.csproj|c:\\users\\scheiningers\\source\\repos\\ministranten\\ministranten\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6BE13378-84EE-4179-AD1F-362C691F4784}|Ministranten\\Ministranten.csproj|solutionrelative:ministranten\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE13378-84EE-4179-AD1F-362C691F4784}|Ministranten\\Ministranten.csproj|c:\\users\\scheiningers\\source\\repos\\ministranten\\ministranten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE13378-84EE-4179-AD1F-362C691F4784}|Ministranten\\Ministranten.csproj|solutionrelative:ministranten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersView.razor",
+              "DocumentMoniker": "C:\\Users\\scheiningers\\source\\repos\\Ministranten\\Ministranten\\Pages\\UsersView.razor",
+              "RelativeDocumentMoniker": "Ministranten\\Pages\\UsersView.razor",
+              "ToolTip": "C:\\Users\\scheiningers\\source\\repos\\Ministranten\\Ministranten\\Pages\\UsersView.razor",
+              "RelativeToolTip": "Ministranten\\Pages\\UsersView.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T14:12:29.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MinistrantenPlanView.razor",
+              "DocumentMoniker": "C:\\Users\\scheiningers\\source\\repos\\Ministranten\\Ministranten\\Pages\\MinistrantenPlanView.razor",
+              "RelativeDocumentMoniker": "Ministranten\\Pages\\MinistrantenPlanView.razor",
+              "ToolTip": "C:\\Users\\scheiningers\\source\\repos\\Ministranten\\Ministranten\\Pages\\MinistrantenPlanView.razor",
+              "RelativeToolTip": "Ministranten\\Pages\\MinistrantenPlanView.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T14:11:40.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "C:\\Users\\scheiningers\\source\\repos\\Ministranten\\Ministranten\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "Ministranten\\Pages\\FetchData.razor",
+              "ToolTip": "C:\\Users\\scheiningers\\source\\repos\\Ministranten\\Ministranten\\Pages\\FetchData.razor",
+              "RelativeToolTip": "Ministranten\\Pages\\FetchData.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T14:11:12.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\scheiningers\\source\\repos\\Ministranten\\Ministranten\\Shared\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Ministranten\\Shared\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\scheiningers\\source\\repos\\Ministranten\\Ministranten\\Shared\\NavMenu.razor.css",
+              "RelativeToolTip": "Ministranten\\Shared\\NavMenu.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-08T13:59:34.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\scheiningers\\source\\repos\\Ministranten\\Ministranten\\Shared\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Ministranten\\Shared\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\scheiningers\\source\\repos\\Ministranten\\Ministranten\\Shared\\MainLayout.razor.css",
+              "RelativeToolTip": "Ministranten\\Shared\\MainLayout.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-08T12:54:02.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\scheiningers\\source\\repos\\Ministranten\\Ministranten\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Ministranten\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\scheiningers\\source\\repos\\Ministranten\\Ministranten\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Ministranten\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T12:47:19.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\scheiningers\\source\\repos\\Ministranten\\Ministranten\\Program.cs",
+              "RelativeDocumentMoniker": "Ministranten\\Program.cs",
+              "ToolTip": "C:\\Users\\scheiningers\\source\\repos\\Ministranten\\Ministranten\\Program.cs",
+              "RelativeToolTip": "Ministranten\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:45:31.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\scheiningers\\source\\repos\\Ministranten\\Ministranten\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Ministranten\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\scheiningers\\source\\repos\\Ministranten\\Ministranten\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Ministranten\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T12:44:53.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
